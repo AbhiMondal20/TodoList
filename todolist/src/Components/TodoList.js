@@ -82,7 +82,7 @@ function TodoList() {
                             }}
                           >
                             {data}
-                            
+                            &nbsp;&nbsp;
                             <button
                               className="btn btn-sm  btn-success"
                               type="button"
