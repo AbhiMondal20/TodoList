@@ -46,6 +46,7 @@ function TodoList() {
                     value={activity}
                     onChange={(e) => setAcctivity(e.target.value)}
                     className="form-control shadow-none"
+                    require
                   />
                   <button
                     className="btn btn-success"
